@@ -1,0 +1,8 @@
+{
+  "name": "my-tools/tools",
+  "autoload": {
+    "psr-0" : {
+      "MyTools\\Tools" : "src"
+    }
+  }
+}
